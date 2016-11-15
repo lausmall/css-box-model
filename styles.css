@@ -1,0 +1,33 @@
+.text-box {
+  margin: 50px;
+  color: black;
+  padding: 25px;
+  color: white;
+  font-family: 'Delius Unicase', cursive;
+  padding-top: 50px; 
+  display: inline-block;
+  width: 400px;
+  display: inline-block;
+  margin-right: 100px;
+
+} 
+
+h1 {
+  color: black;
+  padding: 10px;
+  font-family: 'Delius Unicase', cursive;
+
+}
+
+body {
+  background: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Pictures-Download-Hipster-Backgrounds.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+div.text-box p {
+  margin: 0;
+
+}
